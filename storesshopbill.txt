@@ -1,0 +1,3 @@
+ProductName		Price		
+ Fruity Pebbles 300gm	 550
+ 20210819
